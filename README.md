@@ -85,7 +85,7 @@ Add 6 photos to `public/images/` named: `pic1.jpg` to `pic6.jpg`
 
 ### 4. Music (Optional)
 
-Replace `public/music.mp3` with your song
+Replace `public/music.mp3.mp3` with your song
 
 ---
 
