@@ -13,19 +13,18 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = 'cutiepie,
 
 Your personalized birthday message goes here.
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
-
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+"Happy Birthday to my favorite human, Divyanshi! 🎂✨ 
+It’s crazy how we’ve never met in person, yet you understand me better than almost anyone. 
+You’re more than just an 'online' friend—you’re a soul sister. 
+I hope your day is filled with as much joy as you bring to my life every single day! Love you tons! 🥰💖🌍
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— Atul`;
 
   // Handle page transitions
   useEffect(() => {
