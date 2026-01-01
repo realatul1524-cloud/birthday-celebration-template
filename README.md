@@ -21,7 +21,7 @@ Open `http://localhost:5173`
 **File:** `src/components/Countdown.jsx` (Line 21)
 
 ```javascript
-const targetDate = new Date("2026-01-01T00:00:00");
+const targetDate = new Date("2026-01-01T18:00:00");
 ```
 
 **Format Explanation:**
@@ -85,7 +85,7 @@ Add 6 photos to `public/images/` named: `pic1.jpg` to `pic6.jpg`
 
 ### 4. Music (Optional)
 
-Replace `public/music.mp3.mp3` with your song
+Replace `public/music.mp3` with your song
 
 ---
 
