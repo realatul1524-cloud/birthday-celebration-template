@@ -13,9 +13,9 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = "cutiepie",
+  const message = "cutiepie"
 
-Your personalized birthday message goes here.
+"Your personalized birthday message goes here.";
 
 "Happy Birthday to my favorite human, Divyanshi! 🎂✨ 
 It’s crazy how we’ve never met in person, yet you understand me better than almost anyone. 
