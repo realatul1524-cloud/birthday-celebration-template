@@ -17,12 +17,9 @@ function MessageCard({ isActive }) {
 
 "Your personalized birthday message goes here.";
 
-"Happy Birthday to my favorite human, Divyanshi! 🎂✨ 
-It’s crazy how we’ve never met in person, yet you understand me better than almost anyone. 
-You’re more than just an 'online' friend—you’re a soul sister. 
+"Happy Birthday to my favorite human, Divyanshi! 🎂✨ It’s crazy how we’ve never met in person, yet you understand me better than almost anyone. You’re more than just an 'online' friend—you’re a soul sister. 
 I hope your day is filled with as much joy as you bring to my life every single day! Love you tons! 🥰💖🌍
-
-Happy Birthday! 🎉
+Happy Birthday! 🎉"
 
 — Atul`;
 
